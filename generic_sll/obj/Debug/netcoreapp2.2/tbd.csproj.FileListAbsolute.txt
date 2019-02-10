@@ -1,0 +1,11 @@
+/home/prescott/Documents/code/cs/CSharpAdvanced/generic_sll/bin/Debug/netcoreapp2.2/tbd.deps.json
+/home/prescott/Documents/code/cs/CSharpAdvanced/generic_sll/bin/Debug/netcoreapp2.2/tbd.runtimeconfig.json
+/home/prescott/Documents/code/cs/CSharpAdvanced/generic_sll/bin/Debug/netcoreapp2.2/tbd.runtimeconfig.dev.json
+/home/prescott/Documents/code/cs/CSharpAdvanced/generic_sll/bin/Debug/netcoreapp2.2/tbd.dll
+/home/prescott/Documents/code/cs/CSharpAdvanced/generic_sll/bin/Debug/netcoreapp2.2/tbd.pdb
+/home/prescott/Documents/code/cs/CSharpAdvanced/generic_sll/obj/Debug/netcoreapp2.2/tbd.csprojAssemblyReference.cache
+/home/prescott/Documents/code/cs/CSharpAdvanced/generic_sll/obj/Debug/netcoreapp2.2/tbd.csproj.CoreCompileInputs.cache
+/home/prescott/Documents/code/cs/CSharpAdvanced/generic_sll/obj/Debug/netcoreapp2.2/tbd.AssemblyInfoInputs.cache
+/home/prescott/Documents/code/cs/CSharpAdvanced/generic_sll/obj/Debug/netcoreapp2.2/tbd.AssemblyInfo.cs
+/home/prescott/Documents/code/cs/CSharpAdvanced/generic_sll/obj/Debug/netcoreapp2.2/tbd.dll
+/home/prescott/Documents/code/cs/CSharpAdvanced/generic_sll/obj/Debug/netcoreapp2.2/tbd.pdb

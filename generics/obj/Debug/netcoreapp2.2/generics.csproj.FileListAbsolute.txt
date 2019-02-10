@@ -1,0 +1,11 @@
+/home/prescott/Documents/code/cs/CSharpAdvanced/generics/bin/Debug/netcoreapp2.2/generics.deps.json
+/home/prescott/Documents/code/cs/CSharpAdvanced/generics/bin/Debug/netcoreapp2.2/generics.runtimeconfig.json
+/home/prescott/Documents/code/cs/CSharpAdvanced/generics/bin/Debug/netcoreapp2.2/generics.runtimeconfig.dev.json
+/home/prescott/Documents/code/cs/CSharpAdvanced/generics/bin/Debug/netcoreapp2.2/generics.dll
+/home/prescott/Documents/code/cs/CSharpAdvanced/generics/bin/Debug/netcoreapp2.2/generics.pdb
+/home/prescott/Documents/code/cs/CSharpAdvanced/generics/obj/Debug/netcoreapp2.2/generics.csprojAssemblyReference.cache
+/home/prescott/Documents/code/cs/CSharpAdvanced/generics/obj/Debug/netcoreapp2.2/generics.csproj.CoreCompileInputs.cache
+/home/prescott/Documents/code/cs/CSharpAdvanced/generics/obj/Debug/netcoreapp2.2/generics.AssemblyInfoInputs.cache
+/home/prescott/Documents/code/cs/CSharpAdvanced/generics/obj/Debug/netcoreapp2.2/generics.AssemblyInfo.cs
+/home/prescott/Documents/code/cs/CSharpAdvanced/generics/obj/Debug/netcoreapp2.2/generics.dll
+/home/prescott/Documents/code/cs/CSharpAdvanced/generics/obj/Debug/netcoreapp2.2/generics.pdb
